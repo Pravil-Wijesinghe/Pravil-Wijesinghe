@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/pravil_wijesinghe](https://bit.ly/pravil_wijesinghe)
 
-- 💬 Ask me about **React, React-native**
-
 - 📫 How to reach me **pravilwijesinghe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
