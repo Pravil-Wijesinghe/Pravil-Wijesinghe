@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [[https://bit.ly/pravil_wijesinghe]([https://bit.ly/pravilwijesinghe](https://bit.ly/pravilwijesinghe))](https://bit.ly/pravil_wijesinghe)
+- 👨‍💻 All of my projects are available at [([https://bit.ly/pravilwijesinghe](https://bit.ly/pravilwijesinghe))]
 
 - 📫 How to reach me **pravilwijesinghe@gmail.com**
 
