@@ -80,7 +80,7 @@
 </table>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/pravilwijesinghe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pravilwijesinghe" /></a></p><br><br>
+<p align="center"><a href="https://ko-fi.com/pravilwijesinghe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pravilwijesinghe" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravil-wijesinghe&show_icons=true&locale=en" alt="pravil-wijesinghe" /></p>
 
